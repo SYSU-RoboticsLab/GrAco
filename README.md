@@ -42,17 +42,18 @@ We provide data in rosbag file (ROS1 and ROS2 format). In addition, ROS1 bag use
 We provided a total of 6 ground sequences and 8 air sequences. Acquisition equipment and sequences are shown in the corresponding pictures. The duration and length of each sequence are shown below.
 
 <div align="center">
-    <img src="./doc/duration-length.png" style="zoom:80%;" />
+    <img src="./doc/duration-length.png" width=70% />
 </div>
 
 <a name="Ground_sequence"></a>
 
 ### 1. Ground sequence
 
-<center class="half">
-    <img src="./doc/sequence-ground.png" style="zoom:10%;" />
-    <img src="./doc/Ground-platform.png" style="zoom:20%;" />
-</center>
+<div align="left">
+    <img src="./doc/sequence-ground.png" width=45% />
+    <img src="./doc/Ground-platform.png" width=25.5% />
+</div>
+
 
 |       Sequence        |                           ROS1 bag                           |                           ROS2 bag                           |                      Ground truth file                       |                       Calibration file                       |
 | :-------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -70,10 +71,10 @@ We provided a total of 6 ground sequences and 8 air sequences. Acquisition equip
 
 ### 2. Aerial sequence
 
-<center class="half">
-    <img src="./doc/sequence-aerial.png" style="zoom:10%;" />
-    <img src="./doc/Aerial-platform.png" style="zoom:28%;" />
-</center>
+<div align="left">
+    <img src="./doc/sequence-aerial.png" width=45% />
+    <img src="./doc/Aerial-platform.png" width=40% />
+</div>
 
 |        Sequence        |                           ROS1 bag                           |                           ROS2 bag                           |                      Ground truth file                       |                       Calibration file                       |
 | :--------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
