@@ -50,8 +50,8 @@ We provided a total of 6 ground sequences and 8 air sequences. Acquisition equip
 ### 1. Ground sequence
 
 <center class="half">
-    <img src="./doc/sequence-ground.png" style="zoom:20%;" />
-    <img src="./doc/Ground-platform.png" style="zoom:40%;" />
+    <img src="./doc/sequence-ground.png" style="zoom:10%;" />
+    <img src="./doc/Ground-platform.png" style="zoom:20%;" />
 </center>
 
 |       Sequence        |                           ROS1 bag                           |                           ROS2 bag                           |                      Ground truth file                       |                       Calibration file                       |
@@ -71,8 +71,8 @@ We provided a total of 6 ground sequences and 8 air sequences. Acquisition equip
 ### 2. Aerial sequence
 
 <center class="half">
-    <img src="./doc/sequence-aerial.png" style="zoom:20%;" />
-    <img src="./doc/Aerial-platform.png" style="zoom:48%;" />
+    <img src="./doc/sequence-aerial.png" style="zoom:10%;" />
+    <img src="./doc/Aerial-platform.png" style="zoom:28%;" />
 </center>
 
 |        Sequence        |                           ROS1 bag                           |                           ROS2 bag                           |                      Ground truth file                       |                       Calibration file                       |
