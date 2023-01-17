@@ -18,6 +18,24 @@
 
 [Yilin Zhu](https://github.com/inntoy), [Yang Kong](https://github.com/JoenHune), [Yingrui Jie](https://github.com/jieyr3Rui), Shiyou Xu and [Hui Cheng](https://cse.sysu.edu.cn/content/2504) from [SYSU RAPID Lab](http://lab.sysu-robotics.com/index.html).
 
+If our work has helped you, please cite:
+
+```
+@article{DBLP:journals/ral/ZhuKJXC23,
+  author    = {Yilin Zhu and
+               Yang Kong and
+               Yingrui Jie and
+               Shiyou Xu and
+               Hui Cheng},
+  title     = {GRACO: A Multimodal Dataset for Ground and Aerial Cooperative Localization and Mapping},
+  journal   = {{IEEE} Robotics Autom. Lett.},
+  volume    = {8},
+  number    = {2},
+  pages     = {966--973},
+  year      = {2023}
+}
+```
+
 ## **Inedx**
 
 1. [Data format](#data_format)
