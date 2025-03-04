@@ -83,7 +83,7 @@ We provided a total of 6 ground sequences and 8 air sequences. Acquisition equip
 |  ground-05 (37.3GB)   | [√](https://1drv.ms/u/s!AmSRwVTuK0YFgg7YjRGkYoNaIx3_?e=9LxGw9) | [√](https://1drv.ms/u/s!AmSRwVTuK0YFgS0G1K0Jfs2uWOxR?e=f1AmpS) | [√](https://1drv.ms/t/s!AmSRwVTuK0YFgRUHAoAm5oiR3UJV?e=mSAdSY) | [√](https://drive.google.com/drive/folders/13b1d9AEltUnWRDJcyqAhQWNj9QaRDJuH?usp=sharing) |
 |  ground-06 (22.3GB)   | [√](https://1drv.ms/u/s!AmSRwVTuK0YFgg2pL96oowwx_7wy?e=L74jFc) | [√](https://1drv.ms/u/s!AmSRwVTuK0YFgS_hGmLnKjyUlFcm?e=s0jg2L) | [√](https://1drv.ms/t/s!AmSRwVTuK0YFgRSzMAfUW2Txe-W2?e=JXKub3) | [√](https://drive.google.com/drive/folders/13b1d9AEltUnWRDJcyqAhQWNj9QaRDJuH?usp=sharing) |
 
-
+If the above link does not work, please use the following link: https://1drv.ms/f/c/05462bee54c19164/EmSRwVTuK0YggAVwAAAAAAAB22xjVSAk9NF4Ic2HQKlNzw?e=ZM7uuT
 
 <a name="Aerial_sequence"></a>
 
@@ -106,4 +106,4 @@ We provided a total of 6 ground sequences and 8 air sequences. Acquisition equip
 | aerial-07-25m (28.3GB) |    [√](https://1drv.ms/u/s!AmSRwVTuK0YFghd4O5OzmrCwPlBv)     | [√](https://1drv.ms/u/s!AmSRwVTuK0YFgXspbVDGNyN-87od?e=GGu46U) | [√](https://1drv.ms/t/s!AmSRwVTuK0YFgQ19nbH5bE1aBafv?e=vzqKGs) | [√](https://drive.google.com/drive/folders/1rb0_X_XrptNqZRw4EaUC6OSfE3PEeM0_?usp=sharing) |
 | aerial-08-25m (19.9GB) |    [√](https://1drv.ms/u/s!AmSRwVTuK0YFghXEVnlm3vQv15vt)     | [√](https://1drv.ms/u/s!AmSRwVTuK0YFgX1V2orIb_M2p0z7?e=MqHXbv) | [√](https://1drv.ms/t/s!AmSRwVTuK0YFgQ6NfsTFMwCv-P16?e=NV7B4y) | [√](https://drive.google.com/drive/folders/1rb0_X_XrptNqZRw4EaUC6OSfE3PEeM0_?usp=sharing) |
 
-The suffix in the name represents the flight altitude.
+The suffix in the name represents the flight altitude. If the above link does not work, please use the following link: https://1drv.ms/f/c/05462bee54c19164/EmSRwVTuK0YggAV9AAAAAAABtpif_ADvF25CSv5v5RuvVg?e=9S9ixT
